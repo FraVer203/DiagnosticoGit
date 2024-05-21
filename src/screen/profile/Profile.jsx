@@ -7,8 +7,7 @@ function Profile({ user }) {
             <p>Nombre: {user.name}</p>
             <p>Apellido: {user.lastName}</p>
             <p>Correo: {user.email}</p>
-            <p>Edad: {user.age}</p>
-            {/* Puedes agregar más detalles según las propiedades del objeto de usuario */}
+            <p>Edad: {user.age}</p
         </div>
     )
 }
