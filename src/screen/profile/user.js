@@ -2,7 +2,7 @@ const user = {
     name: "Francisco",
     lastName: "Javier",
     email: "francis.vera@gmail.com",
-    age: 0,
+    age: 20,
 }
 
 export default user
