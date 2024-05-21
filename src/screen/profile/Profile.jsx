@@ -2,7 +2,7 @@ import '../welcome/welcome.css';
 
 function Profile({ user }) {
     return (
-        <div className="profile">
+        <div className="container">
             <h2>Perfil de Usuario</h2>
             <p>Nombre: {user.name}</p>
             <p>Apellido: {user.lastName}</p>
