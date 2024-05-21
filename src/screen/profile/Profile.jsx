@@ -8,6 +8,7 @@ function Profile({ user }) {
             <p>Apellido: {user.lastName}</p>
             <p>Correo: {user.email}</p>
             <p>Edad: {user.age}</p>
+            <p>Edad: {user.age}</p>
         </div>
     )
 }
