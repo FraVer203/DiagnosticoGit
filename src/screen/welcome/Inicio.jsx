@@ -1,6 +1,6 @@
 import './welcome.css';
 
-function Index() {
+function Inicio() {
     return (
         <div className="container">
             <h1>App con React</h1>
@@ -13,4 +13,4 @@ function Index() {
     );
 }
 
-export default Index;
+export default Inicio;
