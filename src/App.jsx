@@ -1,7 +1,7 @@
 import './App.css'
 import {Route, Routes} from "react-router-dom";
 import Inicio from "./screen/welcome/Inicio.jsx";
-import Task from "./screen/task/Task.jsx";
+import Task from "./screen/task/App.jsx";
 import Profile from "./screen/profile/App.jsx";
 import Layout from "./screen/Layout.jsx";
 
